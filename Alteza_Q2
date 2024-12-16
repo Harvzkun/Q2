@@ -89,7 +89,7 @@ public class CreaturePower {
         System.out.println("\nAnalysis:");
         System.out.println("Sum of Even Numbers: " + sumEven);
         System.out.println("Sum of Odd Numbers: " + sumOdd);
-        System.out.println("Min Power Level: " + min);
-        System.out.println("Max Power Level: " + max);
+        System.out.println("Minimum Power Level: " + min);
+        System.out.println("Maximum Power Level: " + max);
     }
 }
